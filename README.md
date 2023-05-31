@@ -1,2 +1,2 @@
 # PHP Beginners
-Lest's Upgrade Course
+Complete course PPT's and Notes for beginner PHP course.
